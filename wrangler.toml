@@ -1,4 +1,4 @@
-name = "mrking-cloudflare-worker"   # or whatever your Worker is called
+name = "frosty-paper-4417" 
 main = "src/email-worker.js"
 compatibility_date = "2025-12-06"
 
